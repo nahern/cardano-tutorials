@@ -7,7 +7,7 @@ the Cardano blockchain on mainnet. If you just want to set up a local testnet or
 If you do not have access to a computer running Linux, you can use Amazon Web Services (AWS) to create a cloud-based virtual machine running Linux for free.
 To do so, please follow the steps below:
 
-1. Go to [Amazon Web Services (AWS)](https://aws.amazon.com/) and create a (free) account if you do not have one already.
+1. Go to [Amazon Web Services (AWS)](https://aws.amazon.com/) and create a (free) account if you do not have one already. Ensure you log in as a Rootuser.
 
 2. Go to the _AWS Management Console_.
 
